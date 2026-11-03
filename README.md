@@ -10,7 +10,7 @@ I build **data pipelines, workflow automation and practical AI integrations**. M
 | :-- | :-- |
 | [![ETL — clean data, ready to report](https://raw.githubusercontent.com/islamwers/data-ai-workflows/main/media/etl-poster.png)](https://github.com/islamwers/data-ai-workflows/tree/main/etl) | [![AI — from message to saved record](https://raw.githubusercontent.com/islamwers/data-ai-workflows/main/media/ai-poster.png)](https://github.com/islamwers/data-ai-workflows/tree/main/ai) |
 | **Validated data → PostgreSQL → reporting.** A runnable example with rejected-row reasons, repeatable loads and reconciliation. | **Message → review → approval → saved record.** Original Telegram handlers exercised in an offline replay. |
-| [Watch the 36-second demo ↗](https://github.com/islamwers/data-ai-workflows/blob/main/media/etl-demo-en.mp4) | [Watch the 36-second demo ↗](https://github.com/islamwers/data-ai-workflows/blob/main/media/ai-demo-en.mp4) |
+| [Watch the 36-second demo ↗](https://github.com/islamwers/data-ai-workflows/tree/main/etl#watch-the-demo) | [Watch the 36-second demo ↗](https://github.com/islamwers/data-ai-workflows/tree/main/ai#watch-the-demo) |
 
 The demonstrations use fictional data. ETL executes locally in PostgreSQL through PGlite; the AI replay mocks external APIs. Both include code and inspectable checks.
 
